@@ -9,7 +9,7 @@ Overall strategy:
 
 - [Any-Run](https://anonym.to/?https://any.run/) - Run files in a sandbox.
 - [Thread Minder](https://www.threatminer.com/) - Allow analysts to find additional information on indicators of compromise (IOC) such as domain names, IP's and more.
-- [ThreatCrowd](https://www.threatcrowd.com/) - Search engine for threats, show correlations of submitted entries eg IP, hashes, domains etc
+- [ThreatCrowd](https://www.threatcrowd.org/) - Search engine for threats, show correlations of submitted entries eg IP, hashes, domains etc
 - [URLScan](https://anonym.to/?https://urlscan.io/) - Check the website.
 - [Sooty](https://anonym.to/?https://github.com/TheresAFewConors/Sooty) - SOC Analyst Tool.
 - [CheckIP](https://anonym.to/?https://threatstop.com/checkip) - Free resource for checking rep on IPs/CIDRs and domains.
